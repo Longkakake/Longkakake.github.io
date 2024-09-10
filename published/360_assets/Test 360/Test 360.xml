@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <settings>
+    <preloader image="images/0001.jpg?t=1725932634" />
+    <userInterface showProgressPulse="true" showZoomButtons="true" showToolTips="true" showHotspotsButton="true" showFullScreenButton="true" showTogglePlayButton="true" showArrows="true" toolbarAlign="center" toolbarBackColor="transparent" toolbarHoverColor="#808285" toolbarForeColor="#A7A9AE" toolbarBackAlpha="0" toolbarAlpha="1" showProgressNumbers="true" showFullScreenToolbar="true" fullScreenBackColor="#FFFFFF" toolbarPosition="0" customCursorClass="default_cursor" viewerHint="" toolbarAutohide="true" showToolbarOnLoadStart="true" showProgressBar="true" skin="basic" />
+    <control dragSpeed="0.71" doubleClickZooms="true" disableMouseControl="false" showHighresOnFullScreen="true" mouseHoverDrag="false" hideHotspotsOnLoad="false" hideHotspotsOnZoom="true" rowSensitivity="15" dragSensitivity="10" inBrowserFullScreen="false" doubleClickFullscreen="false" zoomSteps="1" zoomSpeed="300" singleClickZooms="false" pauseOnPreload="false" resumePreloadOnHover="false" mouseWheelDrag="false" mouseWheelDragZoomOnly="false" allowRotateInputInZoom="false" allowPanX="true" allowPanY="true" dragAcceleration="1" centerZoom="true" maxZoom="100" />
+    <rotation firstImage="0" rotate="false" rotatePeriod="4" bounce="false" rotateDirection="-1" forceDirection="false" inertiaRelToDragSpeed="true" inertiaTimeToStop="700" inertiaMaxInterval="120" useInertia="true" flipHorizontalInput="false" flipVerticalInput="false" bounceRows="true" rowsOnSingleIndex="false" flipAxis="false" spinOnPageScroll="false" pageScrollFollow="false" pageScrollDelay="300" pageScrollPeriod="3" autoPlayOnDragRelease="false" />
+  </settings>
+  <hotspots />
+  <images rows="1" highresWidth="1920" highresHeight="1080">
+    <image src="images/0001.jpg?t=1725932634">
+      <highres src="images/highres/0001.jpg?t=1725932634" />
+    </image>
+    <image src="images/0002.jpg?t=1725932634">
+      <highres src="images/highres/0002.jpg?t=1725932634" />
+    </image>
+    <image src="images/0003.jpg?t=1725932634">
+      <highres src="images/highres/0003.jpg?t=1725932634" />
+    </image>
+    <image src="images/0004.jpg?t=1725932634">
+      <highres src="images/highres/0004.jpg?t=1725932634" />
+    </image>
+    <image src="images/0005.jpg?t=1725932634">
+      <highres src="images/highres/0005.jpg?t=1725932634" />
+    </image>
+    <image src="images/0006.jpg?t=1725932634">
+      <highres src="images/highres/0006.jpg?t=1725932634" />
+    </image>
+    <image src="images/0007.jpg?t=1725932634">
+      <highres src="images/highres/0007.jpg?t=1725932634" />
+    </image>
+    <image src="images/0008.jpg?t=1725932634">
+      <highres src="images/highres/0008.jpg?t=1725932634" />
+    </image>
+    <image src="images/0009.jpg?t=1725932634">
+      <highres src="images/highres/0009.jpg?t=1725932634" />
+    </image>
+    <image src="images/0010.jpg?t=1725932634">
+      <highres src="images/highres/0010.jpg?t=1725932634" />
+    </image>
+    <image src="images/0011.jpg?t=1725932634">
+      <highres src="images/highres/0011.jpg?t=1725932634" />
+    </image>
+    <image src="images/0012.jpg?t=1725932634">
+      <highres src="images/highres/0012.jpg?t=1725932634" />
+    </image>
+    <image src="images/0013.jpg?t=1725932634">
+      <highres src="images/highres/0013.jpg?t=1725932634" />
+    </image>
+    <image src="images/0014.jpg?t=1725932634">
+      <highres src="images/highres/0014.jpg?t=1725932634" />
+    </image>
+    <image src="images/0015.jpg?t=1725932634">
+      <highres src="images/highres/0015.jpg?t=1725932634" />
+    </image>
+    <image src="images/0016.jpg?t=1725932634">
+      <highres src="images/highres/0016.jpg?t=1725932634" />
+    </image>
+    <image src="images/0017.jpg?t=1725932634">
+      <highres src="images/highres/0017.jpg?t=1725932634" />
+    </image>
+    <image src="images/0018.jpg?t=1725932634">
+      <highres src="images/highres/0018.jpg?t=1725932634" />
+    </image>
+    <image src="images/0019.jpg?t=1725932634">
+      <highres src="images/highres/0019.jpg?t=1725932634" />
+    </image>
+    <image src="images/0020.jpg?t=1725932634">
+      <highres src="images/highres/0020.jpg?t=1725932634" />
+    </image>
+    <image src="images/0021.jpg?t=1725932634">
+      <highres src="images/highres/0021.jpg?t=1725932634" />
+    </image>
+    <image src="images/0022.jpg?t=1725932634">
+      <highres src="images/highres/0022.jpg?t=1725932634" />
+    </image>
+    <image src="images/0023.jpg?t=1725932634">
+      <highres src="images/highres/0023.jpg?t=1725932634" />
+    </image>
+    <image src="images/0024.jpg?t=1725932634">
+      <highres src="images/highres/0024.jpg?t=1725932634" />
+    </image>
+    <image src="images/0025.jpg?t=1725932634">
+      <highres src="images/highres/0025.jpg?t=1725932634" />
+    </image>
+    <image src="images/0026.jpg?t=1725932634">
+      <highres src="images/highres/0026.jpg?t=1725932634" />
+    </image>
+    <image src="images/0027.jpg?t=1725932634">
+      <highres src="images/highres/0027.jpg?t=1725932634" />
+    </image>
+    <image src="images/0028.jpg?t=1725932634">
+      <highres src="images/highres/0028.jpg?t=1725932634" />
+    </image>
+    <image src="images/0029.jpg?t=1725932634">
+      <highres src="images/highres/0029.jpg?t=1725932634" />
+    </image>
+    <image src="images/0030.jpg?t=1725932634">
+      <highres src="images/highres/0030.jpg?t=1725932634" />
+    </image>
+    <image src="images/0031.jpg?t=1725932634">
+      <highres src="images/highres/0031.jpg?t=1725932634" />
+    </image>
+    <image src="images/0032.jpg?t=1725932634">
+      <highres src="images/highres/0032.jpg?t=1725932634" />
+    </image>
+    <image src="images/0033.jpg?t=1725932634">
+      <highres src="images/highres/0033.jpg?t=1725932634" />
+    </image>
+    <image src="images/0034.jpg?t=1725932634">
+      <highres src="images/highres/0034.jpg?t=1725932634" />
+    </image>
+    <image src="images/0035.jpg?t=1725932634">
+      <highres src="images/highres/0035.jpg?t=1725932634" />
+    </image>
+    <image src="images/0036.jpg?t=1725932634">
+      <highres src="images/highres/0036.jpg?t=1725932634" />
+    </image>
+    <image src="images/0037.jpg?t=1725932634">
+      <highres src="images/highres/0037.jpg?t=1725932634" />
+    </image>
+    <image src="images/0038.jpg?t=1725932634">
+      <highres src="images/highres/0038.jpg?t=1725932634" />
+    </image>
+    <image src="images/0039.jpg?t=1725932634">
+      <highres src="images/highres/0039.jpg?t=1725932634" />
+    </image>
+    <image src="images/0040.jpg?t=1725932634">
+      <highres src="images/highres/0040.jpg?t=1725932634" />
+    </image>
+  </images>
+</config>
